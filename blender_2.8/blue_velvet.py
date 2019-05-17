@@ -1,3 +1,5 @@
+# ALPHA NO OFFICIAL ADAPTATION FOR BLENDER 2.8
+
 # ##### BEGIN GPL LICENSE BLOCK #####
 #
 # This program is free software; you can redistribute it and/or
